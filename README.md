@@ -8,7 +8,9 @@ for the Bar coupon
 5. Acceptance rate for who went to 4 or more times a month is more than twice than the the acceptance rate for who went to a bar 3 or fewer times a month
 
 6. Acceptance rate is higher during warm weather
+   
 For Restaurent<20 coupans coupon
+
 1. Acceptance rate is almost same for High Income High Education vs Low Income Low Education
 2. Acceptance rate for the drivers who never go to Restaurent<20 is more than 50%.
 
