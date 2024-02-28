@@ -11,4 +11,8 @@ Acceptance rate is higher during warm weather
 For Restaurent<20 coupans coupon
 Acceptance rate is almost same for High Income High Education vs Low Income Low Education
 Acceptance rate for the drivers who never go to Restaurent<20 is more than 50%.
- 
+
+More Analysis can be carried out for below
+Acceptance rate for CarryAway for wrt age, maritalStatus and occupation ?
+Acceptance rate for CoffeeHouse wrt age, maritalStatus occupation ?
+Acceptance rate for Restaurant20To50 wrt income, age, passanger ?
