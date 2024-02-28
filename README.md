@@ -13,6 +13,6 @@ For Restaurent<20 coupans coupon
 2. Acceptance rate for the drivers who never go to Restaurent<20 is more than 50%.
 
 More Analysis can be carried out for below
-Acceptance rate for CarryAway for wrt age, maritalStatus and occupation ?
-Acceptance rate for CoffeeHouse wrt age, maritalStatus occupation ?
-Acceptance rate for Restaurant20To50 wrt income, age, passanger ?
+1. Acceptance rate for CarryAway for wrt age, maritalStatus and occupation ?
+2. Acceptance rate for CoffeeHouse wrt age, maritalStatus occupation ?
+3. Acceptance rate for Restaurant20To50 wrt income, age, passanger ?
